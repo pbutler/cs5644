@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# local
+project/statement.pdf
+.DS_Store
